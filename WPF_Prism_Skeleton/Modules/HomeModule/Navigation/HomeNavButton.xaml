@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="WPF_Prism_Skeleton.Modules.HomeModule.Navigation.HomeNavButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Prism_Skeleton.Modules.HomeModule.Navigation"
+             xmlns:views="clr-namespace:WPF_Prism_Skeleton.Modules.HomeModule.Views"
+             xmlns:infCommands="clr-namespace:WPF_Prism_Skeleton;assembly=WPF_Prism_Skeleton"
+             mc:Ignorable="d">
+    <Grid Margin="5">
+        <Button Command="{x:Static infCommands:ApplicationCommands.NavigateCommand}" CommandParameter="{x:Type views:HomeView}">Navigate to Home View</Button>
+    </Grid>
+</UserControl>
