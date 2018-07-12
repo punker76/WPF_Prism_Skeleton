@@ -14,6 +14,7 @@ namespace WPF_Prism_Skeleton.Modules.HomeModule
         protected override void InitializeModule()
         {
             RegionManager.RegisterViewWithRegion(RegionNames.ToolbarRegion, typeof(HomeNavButton));
+            RegionManager.RegisterViewWithRegion(RegionNames.ContentRegion, typeof(HomeView));
         }
 
         protected override void RegisterTypes()
