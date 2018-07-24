@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel;
+using System.Windows;
 
 namespace WPF_Prism_Skeleton
 {
-    public class ViewModelBase : IViewModel, INotifyPropertyChanged
+    public class ViewModelBase : DependencyObject, IViewModel, INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
