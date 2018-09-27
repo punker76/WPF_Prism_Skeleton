@@ -1,11 +1,11 @@
-﻿using System.Windows;
+﻿using MahApps.Metro.Controls;
 
 namespace WPF_Prism_Skeleton
 {
     /// <summary>
     /// Interaction logic for Shell.xaml
     /// </summary>
-    public partial class Shell : Window, IView
+    public partial class Shell : MetroWindow, IView
     {
         public Shell(IShellViewModel viewModel)
         {

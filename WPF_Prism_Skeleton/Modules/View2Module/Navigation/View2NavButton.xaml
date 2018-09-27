@@ -8,6 +8,12 @@
              xmlns:infCommands="clr-namespace:WPF_Prism_Skeleton;assembly=WPF_Prism_Skeleton"
              mc:Ignorable="d">
     <Grid Margin="5">
-        <Button Command="{x:Static infCommands:ApplicationCommands.NavigateCommand}" CommandParameter="{x:Type views:View2View}">Navigate to View 2</Button>
+        <Button Command="{x:Static infCommands:ApplicationCommands.NavigateCommand}" CommandParameter="{x:Type views:View2View}" Width="100" Height="75"> 
+            <Rectangle Width="50" Height="40">
+                <Rectangle.Fill>
+                    <VisualBrush Visual="{StaticResource View2Button}" />
+                </Rectangle.Fill>
+            </Rectangle>
+        </Button>
     </Grid>
 </UserControl>

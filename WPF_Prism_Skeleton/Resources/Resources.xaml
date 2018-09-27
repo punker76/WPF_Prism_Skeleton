@@ -1,0 +1,80 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPF_Prism_Skeleton.Resources"
+                    xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls">
+    <Canvas x:Key="View2Button" Width="26.458333" Height="26.458333">
+        <Canvas.RenderTransform>
+            <TranslateTransform X="0" Y="0"/>
+        </Canvas.RenderTransform>
+        <Canvas.Resources/>
+        <!--Unknown tag: sodipodi:namedview-->
+        <!--Unknown tag: metadata-->
+        <Canvas Name="layer1">
+            <Canvas.RenderTransform>
+                <TranslateTransform X="0" Y="-270.54167"/>
+            </Canvas.RenderTransform>
+            <Path Name="path8528" StrokeThickness="0.69999999" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 6.5013313 273.19297 H 23.853805 v 20.90716 H 6.5013313 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path8530" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 276.49479 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path85303" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 277.61927 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path853039" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 278.77682 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path85309" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 281.90222 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path853030" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 283.0267 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path8530391" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 284.18425 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path853098" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 287.475 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Path Name="path8530308" StrokeThickness="0.465" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                <Path.Data>
+                    <PathGeometry Figures="M 9.095052 288.59948 H 20.968229 Z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+            <Rectangle Canvas.Left="3.0869629" Canvas.Top="281.56519" Width="16.323484" Height="14.967093" Name="rect8732" Fill="#FFFFFFFF" StrokeThickness="0.46105364" StrokeMiterLimit="4"/>
+        </Canvas>
+        <Canvas Name="layer2">
+            <Canvas.RenderTransform>
+                <TranslateTransform X="0" Y="-270.54167"/>
+            </Canvas.RenderTransform>
+            <TextBlock FontSize="64" FontWeight="Normal" FontFamily="Ravie" FontStyle="normal" Foreground="#FF000000" TextWrapping="Wrap" Name="flowRoot8487" Width="1448" Height="578" Canvas.Left="-582" Canvas.Top="-1086"/>
+            <Canvas Name="flowRoot8507" Opacity="1">
+                <Canvas.RenderTransform>
+                    <MatrixTransform Matrix="0.37057267 0 0 0.32438052 -0.79238791 274.49008"/>
+                </Canvas.RenderTransform>
+                <Path Name="path8515" Fill="#FF000000">
+                    <Path.Data>
+                        <PathGeometry Figures="m 53.822916 55.380207 q 0 1.640625 -0.104167 2.604167 -0.364583 3.203125 -3.463542 5.130208 -2.890625 1.796875 -6.848958 1.796875 -2.96875 0 -5.494791 -1.119792 -8.75 -3.880208 -13.854167 -3.880208 -2.65625 0 -4.0625 1.119792 -0.807291 0.625 -0.807291 2.135416 0 0.677084 0.182291 1.484375 -3.281249 0.3125 -5.338541 1.614584 -1.5625 -3.75 -1.5625 -7.682292 0 -6.380208 3.697917 -10.624999 4.114583 -4.713542 11.458333 -4.947917 4.244791 -0.15625 6.223958 -1.484375 2.526041 -1.692708 4.010416 -6.510417 1.015625 -3.281249 1.015625 -5.182291 0 -2.630208 -2.057291 -3.567708 -1.666667 -0.755209 -6.041667 -0.807292 -2.760416 -0.02604 -5.130208 0.598958 -2.239583 0.598959 -2.239583 1.223959 0 0.286458 0.546875 0.416666 4.140625 0.989584 6.197916 2.369792 3.020833 1.979167 3.020833 5.3125 0 1.770833 -2.109374 2.838541 -2.213542 1.09375 -6.041667 1.09375 -1.901042 0 -3.958333 -0.260416 -7.1875 -0.9375 -7.1875 -5.546875 0 -4.0625 3.463542 -6.953125 4.895833 -4.088542 15.520833 -4.088542 7.994791 0 13.124999 2.65625 6.015625 3.072917 6.015625 9.036459 0 12.473958 -16.588541 12.994791 -7.760417 0.260417 -11.901042 3.255208 -3.776041 2.734375 -3.828125 7.109375 2.109375 -4.869792 9.921875 -4.869792 5.078125 0 8.958333 1.822917 0.9375 0.442708 4.244792 2.526042 2.083333 1.302083 3.541667 1.302083 2.447916 0 2.447916 -1.588542 0 -2.682291 -4.947916 -4.84375 5.104166 -3.854166 6.927083 -5.442708 3.046875 3.046875 3.046875 8.958333 z" FillRule="NonZero"/>
+                    </Path.Data>
+                </Path>
+            </Canvas>
+        </Canvas>
+    </Canvas>
+</ResourceDictionary>
